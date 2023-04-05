@@ -4,3 +4,7 @@
 	branch = gh-pages
 [submodule "statistical-software-design"]
 	branch = gh-pages
+[submodule "OnePackagePerMeetup-gganimate"]
+	path = OnePackagePerMeetup-gganimate
+	url = git@github.com:mitchelloharawild/OnePackagePerMeetup-gganimate.git
+	branch = gh-pages
