@@ -1,0 +1,6 @@
+[submodule "talk-statistical-software-design"]
+	path = statistical-software-design
+	url = git@github.com:mitchelloharawild/talk-statistical-software-design.git
+	branch = gh-pages
+[submodule "statistical-software-design"]
+	branch = gh-pages
