@@ -12,3 +12,7 @@
 	path = nhs2020
 	url = git@github.com:mitchelloharawild/talk-multiseasonal-2020.git
 	branch = gh-pages
+[submodule "talk-reconciling-graphs"]
+	path = reconciling-graphs
+	url = git@github.com:mitchelloharawild/talk-reconciling-graphs.git
+	branch = gh-pages
