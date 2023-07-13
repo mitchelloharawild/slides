@@ -19,5 +19,4 @@
 [submodule "talk-forecast-to-fable"]
 	path = nyr2023
 	url = git@github.com:mitchelloharawild/talk-forecast-to-fable.git
-[submodule "nyr2023"]
 	branch = gh-pages
