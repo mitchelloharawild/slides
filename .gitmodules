@@ -28,3 +28,19 @@
 	path = fable-tfeam
 	url = git@github.com:mitchelloharawild/talk-tfeam2018.git
 	branch = gh-pages
+[submodule "user2019"]
+	path = user2019
+	url = git@github.com:mitchelloharawild/talk-fable-combinations.git
+	branch = user2019
+[submodule "isf2019"]
+	path = isf2019
+	url = git@github.com:mitchelloharawild/talk-fable-combinations.git
+	branch = isf2019
+[submodule "amazon-berlin2019"]
+	path = amazon-berlin2019
+	url = git@github.com:mitchelloharawild/talk-fable-combinations.git
+	branch = amazon-berlin2019
+[submodule "fable-booking2019"]
+	path = fable-booking2019
+	url = git@github.com:mitchelloharawild/talk-fable-combinations.git
+	branch = fable-booking2019
