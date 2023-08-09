@@ -24,3 +24,7 @@
 	path = researchtools-rmd
 	url = git@github.com:mitchelloharawild/talk-researchtools-rmd.git
 	branch = gh-pages
+[submodule "talk-tfeam2018"]
+	path = fable-tfeam
+	url = git@github.com:mitchelloharawild/talk-tfeam2018.git
+	branch = gh-pages
