@@ -20,3 +20,7 @@
 	path = nyr2023
 	url = git@github.com:mitchelloharawild/talk-forecast-to-fable.git
 	branch = gh-pages
+[submodule "talk-researchtools-rmd"]
+	path = researchtools-rmd
+	url = git@github.com:mitchelloharawild/talk-researchtools-rmd.git
+	branch = gh-pages
