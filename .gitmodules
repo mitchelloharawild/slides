@@ -52,3 +52,7 @@
 	path = MelbURN17
 	url = git@github.com:mitchelloharawild/talk-melburn2017.git
 	branch = master
+[submodule "wombat-gganimate"]
+	path = wombat-gganimate
+	url = git@github.com:mitchelloharawild/talk-wombat2019-gganimate.git
+	branch = master
