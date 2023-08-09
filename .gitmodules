@@ -56,3 +56,7 @@
 	path = wombat-gganimate
 	url = git@github.com:mitchelloharawild/talk-wombat2019-gganimate.git
 	branch = master
+[submodule "isf2020"]
+	path = isf2020
+	url = git@github.com:mitchelloharawild/talk-fable-temporal-2020.git
+	branch = gh-pages
