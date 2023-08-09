@@ -48,3 +48,7 @@
 	path = user2018
 	url = git@github.com:mitchelloharawild/talk-user2018-fasster.git
 	branch = master
+[submodule "MelbURN17"]
+	path = MelbURN17
+	url = git@github.com:mitchelloharawild/talk-melburn2017.git
+	branch = master
