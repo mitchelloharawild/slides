@@ -44,3 +44,7 @@
 	path = fable-booking2019
 	url = git@github.com:mitchelloharawild/talk-fable-combinations.git
 	branch = fable-booking2019
+[submodule "user2018"]
+	path = user2018
+	url = git@github.com:mitchelloharawild/talk-user2018-fasster.git
+	branch = master
