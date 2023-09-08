@@ -60,3 +60,7 @@
 	path = isf2020
 	url = git@github.com:mitchelloharawild/talk-fable-temporal-2020.git
 	branch = gh-pages
+[submodule "prato2023"]
+	path = prato2023
+	url = git@github.com:mitchelloharawild/talk-prato2023.git
+	branch = gh-pages
