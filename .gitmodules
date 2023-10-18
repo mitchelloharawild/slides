@@ -68,3 +68,7 @@
 	path = research-practices-quarto
 	url = git@github.com:mitchelloharawild/talk-research-practices-quarto.git
 	branch = gh-pages
+[submodule "etx6510"]
+	path = etx6510
+	url = git@github.com:mitchelloharawild/talk-etx6510.git
+	branch = gh-pages
