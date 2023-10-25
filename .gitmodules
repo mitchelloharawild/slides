@@ -72,3 +72,7 @@
 	path = etx6510
 	url = git@github.com:mitchelloharawild/talk-etx6510.git
 	branch = gh-pages
+[submodule "numbats-graph-coherency"]
+	path = numbats-graph-coherency
+	url = git@github.com:mitchelloharawild/talk-numbats-graph-coherency.git
+	branch = gh-pages
