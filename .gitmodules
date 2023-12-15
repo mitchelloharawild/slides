@@ -76,3 +76,7 @@
 	path = numbats-graph-coherency
 	url = git@github.com:mitchelloharawild/talk-numbats-graph-coherency.git
 	branch = gh-pages
+[submodule "moodlequiz"]
+	path = moodlequiz
+	url = git@github.com:mitchelloharawild/talk-moodlequiz.git
+	branch = gh-pages
