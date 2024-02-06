@@ -80,3 +80,7 @@
 	path = moodlequiz
 	url = git@github.com:mitchelloharawild/talk-moodlequiz.git
 	branch = gh-pages
+[submodule "phd-confirmation"]
+	path = phd-confirmation
+	url = git@github.com:mitchelloharawild/phd-confirmation.git
+	branch = gh-pages
