@@ -84,3 +84,7 @@
 	path = phd-confirmation
 	url = git@github.com:mitchelloharawild/phd-confirmation.git
 	branch = gh-pages
+[submodule "pruning-graphs"]
+	path = pruning-graphs
+	url = git@github.com:mitchelloharawild/talk-graph-pruning.git
+	branch = gh-pages
