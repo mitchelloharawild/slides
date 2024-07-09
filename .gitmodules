@@ -88,3 +88,7 @@
 	path = pruning-graphs
 	url = git@github.com:mitchelloharawild/talk-graph-pruning.git
 	branch = gh-pages
+[submodule "user2024"]
+	path = user2024
+	url = git@github.com:mitchelloharawild/talk-distributional.git
+	branch = gh-pages
