@@ -92,3 +92,7 @@
 	path = user2024
 	url = git@github.com:mitchelloharawild/talk-distributional.git
 	branch = gh-pages
+[submodule "wombat2024"]
+	path = wombat2024
+	url = git@github.com:mitchelloharawild/talk-elearning-wombat24.git
+	branch = gh-pages
