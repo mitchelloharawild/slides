@@ -96,3 +96,7 @@
 	path = wombat2024
 	url = git@github.com:mitchelloharawild/talk-elearning-wombat24.git
 	branch = gh-pages
+[submodule "ggextenders-ggtime"]
+	path = ggextenders-ggtime
+	url = git@github.com:mitchelloharawild/talk-ggextenders-ggtime.git
+	branch = gh-pages
