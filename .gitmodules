@@ -100,3 +100,7 @@
 	path = ggextenders-ggtime
 	url = git@github.com:mitchelloharawild/talk-ggextenders-ggtime.git
 	branch = gh-pages
+[submodule "phd-progress-review"]
+	path = phd-progress-review
+	url = git@github.com:mitchelloharawild/phd-progress-review.git
+	branch = gh-pages
