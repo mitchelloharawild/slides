@@ -104,3 +104,7 @@
 	path = phd-progress-review
 	url = git@github.com:mitchelloharawild/phd-progress-review.git
 	branch = gh-pages
+[submodule "acefa-launch"]
+	path = acefa-launch
+	url = git@github.com:mitchelloharawild/talk-acefa-launch.git
+	branch = gh-pages
