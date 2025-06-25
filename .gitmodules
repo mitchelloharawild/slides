@@ -108,3 +108,7 @@
 	path = acefa-launch
 	url = git@github.com:mitchelloharawild/talk-acefa-launch.git
 	branch = gh-pages
+[submodule "iif-osf-welcome"]
+	path = iif-osf-welcome
+	url = git@github.com:mitchelloharawild/talk-iif-osf-welcome.git
+	branch = gh-pages
