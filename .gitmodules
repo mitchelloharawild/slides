@@ -112,3 +112,7 @@
 	path = iif-osf
 	url = git@github.com:mitchelloharawild/talk-iif-osf-welcome.git
 	branch = gh-pages
+[submodule "forecasting-frameworks"]
+	path = forecasting-frameworks
+	url = git@github.com:mitchelloharawild/talk-forecasting-frameworks.git
+	branch = gh-pages
