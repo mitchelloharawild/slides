@@ -116,3 +116,7 @@
 	path = forecasting-frameworks
 	url = git@github.com:mitchelloharawild/talk-forecasting-frameworks.git
 	branch = gh-pages
+[submodule "isf2025"]
+	path = isf2025
+	url = git@github.com:mitchelloharawild/talk-isf-ggtime.git
+	branch = gh-pages
