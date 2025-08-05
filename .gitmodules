@@ -120,3 +120,7 @@
 	path = isf2025
 	url = git@github.com:mitchelloharawild/talk-isf-ggtime.git
 	branch = gh-pages
+[submodule "jsm2025"]
+	path = jsm2025
+	url = git@github.com:mitchelloharawild/talk-jsm-ggtime.git
+	branch = gh-pages
