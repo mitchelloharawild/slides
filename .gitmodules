@@ -124,3 +124,7 @@
 	path = jsm2025
 	url = git@github.com:mitchelloharawild/talk-jsm-ggtime.git
 	branch = gh-pages
+[submodule "user2025"]
+	path = user2025
+	url = git@github.com:mitchelloharawild/talk-ggtime-user2025.git
+	branch = gh-pages
