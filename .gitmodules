@@ -128,3 +128,7 @@
 	path = user2025
 	url = git@github.com:mitchelloharawild/talk-ggtime-user2025.git
 	branch = gh-pages
+[submodule "rsaa25"]
+	path = rsaa25
+	url = git@github.com:mitchelloharawild/talk-rsaa-distributional.git
+	branch = gh-pages
