@@ -132,3 +132,7 @@
 	path = rsaa25
 	url = git@github.com:mitchelloharawild/talk-rsaa-distributional.git
 	branch = gh-pages
+[submodule "wombat2025-welcome"]
+	path = wombat2025-welcome
+	url = git@github.com:mitchelloharawild/talk-wombat2025-welcome.git
+	branch = gh-pages
