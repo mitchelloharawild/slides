@@ -136,3 +136,7 @@
 	path = wombat2025-welcome
 	url = git@github.com:mitchelloharawild/talk-wombat2025-welcome.git
 	branch = gh-pages
+[submodule "asc2025"]
+	path = asc2025
+	url = git@github.com:mitchelloharawild/talk-vectorised-statistics.git
+	branch = gh-pages
