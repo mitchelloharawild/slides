@@ -140,3 +140,7 @@
 	path = asc2025
 	url = git@github.com:mitchelloharawild/talk-vectorised-statistics.git
 	branch = gh-pages
+[submodule "phd-final-review"]
+	path = phd-final-review
+	url = git@github.com:mitchelloharawild/phd-final-review.git
+	branch = gh-pages
