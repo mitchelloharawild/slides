@@ -144,3 +144,7 @@
 	path = phd-final-review
 	url = git@github.com:mitchelloharawild/phd-final-review.git
 	branch = gh-pages
+[submodule "soda2026"]
+	path = soda2026
+	url = git@github.com:mitchelloharawild/talk-vecvec-soda2026.git
+	branch = gh-pages
