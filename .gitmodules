@@ -152,3 +152,7 @@
 	path = mixtime-supsi
 	url = git@github.com:mitchelloharawild/talk-mixtime-supsi.git
 	branch = gh-pages
+[submodule "dad2026"]
+	path = dad2026
+	url = git@github.com:mitchelloharawild/talk-vecvec-dad2026.git
+	branch = gh-pages
