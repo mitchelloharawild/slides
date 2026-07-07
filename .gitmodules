@@ -156,3 +156,7 @@
 	path = dad2026
 	url = git@github.com:mitchelloharawild/talk-vecvec-dad2026.git
 	branch = gh-pages
+[submodule "user2026"]
+	path = user2026
+	url = git@github.com:mitchelloharawild/talk-vecvec-user2026.git
+	branch = gh-pages
